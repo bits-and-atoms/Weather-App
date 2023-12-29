@@ -26,6 +26,7 @@ Access the live Weather App here: [Weather App Demo](https://bits-and-atoms.gith
 
 ## Screenshots
 
+
 ![Weather App Screenshot](screenshots/photo.png)
 
 ## How to Contribute
@@ -39,5 +40,6 @@ If you want to contribute to this project, you can follow these steps:
 5. Create a new Pull Request.
 
 ## Credits
+
 
 - This project uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data.
