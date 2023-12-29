@@ -10,6 +10,7 @@ Access the live Weather App here: [Weather App Demo](https://bits-and-atoms.gith
 - **Display Weather Data:** Shows temperature, humidity, and wind speed details.
 - **Dynamic Background:** Changes the background image based on the searched location.
 
+
 ## Technologies Used
 
 - HTML
@@ -25,9 +26,7 @@ Access the live Weather App here: [Weather App Demo](https://bits-and-atoms.gith
 4. View the displayed weather details along with the dynamically changed background image.
 
 ## Screenshots
-
-
-![Weather App Screenshot](screenshots/photo.png)
+![Screenshot](https://github.com/bits-and-atoms/Weather-App/assets/113923608/83d4624c-2038-4e0f-af06-9356e3b511d0)
 
 ## How to Contribute
 
